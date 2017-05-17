@@ -1,9 +1,104 @@
-A Friendly Intro to R
+---
+title: "A Friendly Intro to R - BioData Club"
+author: "Danielle Robinson & Lilly Winfree"
+date: "May 26 2017"
+output: ioslides_presentation
+---
 
-DR and LW make a plan to teach some simple analysis in R in a 45 minute code-along workshop.
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
-Start with the Intro.Rmd file, that's our presentation with some R basics and resources.
+## Before we begin
+- Download R Studio 
+    + https://www.rstudio.com/products/rstudio/download3/
+- Go to our Github page: 
+    + https://github.com/daniellecrobinson/Rstats_4_n00bs
+```{r fig.width=5, fig.height=3,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("~/Desktop/Rstats_4_n00bs-master/Github.png")
+ grid.raster(img)
+```
+- Click on "Clone or Download"
+- Click on "Download Zip"
 
-Then download the data from "example_lengths_for_R.csv" move on to the exercises in "BasticStatsCode.Rmd"
+## Why should you use R??
+- Free!
+    + unlike Prism, excel
+- Open Source 
+    + Tons of support, packages, tools
+    + Don't trap your file in proprietary format!
+- Great for stats
+    + Defaults not hidden, question assumptions
 
-"Power_Analysis.Rmd" and "ANOVA.Rmd" are extra files we did not get to.
+## Basics (1)
+- use # to comment
+- "**<-**" assigns values to a variable
+```{r}
+x<-1
+x
+```
+- functions ()
+```{r}
+print(x)
+```
+## Basics (2)
+- help() and ?
+- in R console, use up arrow to re-type what you just wrote
+- variable names can't start with a number
+    + eg Data1 not 1Data
+- throwing errors is normal! You will create errors _a lot_
+
+### R is _stupid_ and only knows what _you_ input
+
+
+##This is what R Studio looks like:
+```{r fig.width=8, fig.height=5,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("~/Desktop/Rstats_4_n00bs-master/rstudio.png")
+ grid.raster(img)
+```
+
+## Resources
+- CRAN: https://cran.r-project.org
+- http://stackoverflow.com - like google for coding questions
+- R Markdown cheat sheets (rmarkdown.rstudio.com)
+- Ted Laderas' R bootcamp: https://github.com/laderast/r-bootcamp
+- Mozilla study groups: https://github.com/mozillascience/studyGroupLessons/issues
+- R Open Sci (https://ropensci.org)
+- R meetup groups (https://www.meetup.com/portland-r-user-group/)
+- additional plotting abilities with ggplot package (we're not going into this)
+
+## Fun Events:
+```{r fig.width=8, fig.height=5,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("~/Desktop/Rstats_4_n00bs-master/SHD.png")
+ grid.raster(img)
+```
+
+## Fun Events:
+```{r fig.width=8, fig.height=5,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("~/Desktop/Rstats_4_n00bs-master/WIS_OMSI.png")
+ grid.raster(img)
+```
+
+## Let's go!
+From the Github downloaded files, open:
+
+- "example_lengths_for_R.csv"
+- "BasicStatsCode.pdf"
+
+We'll start with "BasicStatsCode.pdf" 
+
+
+###_PLEASE ASK US IF YOU ARE CONFUSED! :-)_
+
+
+~Use your **yellow** sticky note for "confused" and **green** for "ok"~
+
+
