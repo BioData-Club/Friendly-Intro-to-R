@@ -1,0 +1,1221 @@
+coverlip code,treatment,values
+G,Treatment A,42.188
+G,Treatment A,85.208
+G,Treatment A,26.282
+G,Treatment A,68.658
+G,Treatment A,28.215
+G,Treatment A,18.632
+G,Treatment A,17.27
+G,Treatment A,23.759
+G,Treatment A,82.176
+G,Treatment A,22.807
+G,Treatment A,68.6
+G,Treatment A,38.839
+G,Treatment A,16.033
+G,Treatment A,79.249
+G,Treatment A,39.24
+G,Treatment A,22.206
+G,Treatment A,42.571
+G,Treatment A,18.239
+G,Treatment A,89.949
+G,Treatment A,30.708
+G,Treatment A,54.21
+G,Treatment A,70.797
+G,Treatment A,50.715
+G,Treatment A,56.684
+G,Treatment A,98.083
+G,Treatment A,14.12
+G,Treatment A,69.41
+G,Treatment A,78.19
+G,Treatment A,86.708
+G,Treatment A,89.728
+G,Treatment A,33.644
+G,Treatment A,82.506
+G,Treatment A,29.07
+G,Treatment A,33.168
+G,Treatment A,107.638
+G,Treatment A,86.642
+G,Treatment A,28.158
+G,Treatment A,169.23
+G,Treatment A,72.139
+G,Treatment A,87.432
+G,Treatment A,90.459
+G,Treatment A,133.374
+G,Treatment A,66.103
+G,Treatment A,22.343
+G,Treatment A,47.452
+G,Treatment A,43.808
+G,Treatment A,103.016
+G,Treatment A,44.099
+G,Treatment A,18.125
+G,Treatment A,34.882
+G,Treatment A,66.003
+G,Treatment A,53.537
+G,Treatment A,68.73
+G,Treatment A,58.561
+G,Treatment A,39.721
+G,Treatment A,53.894
+G,Treatment A,38.67
+G,Treatment A,36.692
+G,Treatment A,86.12
+G,Treatment A,21.29
+G,Treatment A,69.501
+G,Treatment A,61.733
+G,Treatment A,9.04
+G,Treatment A,48.945
+G,Treatment A,30.825
+G,Treatment A,6.117
+G,Treatment A,87.356
+G,Treatment A,45.037
+G,Treatment A,34.347
+G,Treatment A,40.49
+G,Treatment A,37.692
+G,Treatment A,68.093
+G,Treatment A,166.171
+G,Treatment A,64.52
+G,Treatment A,43.405
+G,Treatment A,161.052
+G,Treatment A,53.206
+G,Treatment A,35.224
+G,Treatment A,19.613
+G,Treatment A,99.653
+G,Treatment A,21.936
+G,Treatment A,41.946
+G,Treatment A,117.481
+G,Treatment A,91.38
+G,Treatment A,74.417
+G,Treatment A,29.474
+G,Treatment A,72.495
+G,Treatment A,27.053
+G,Treatment A,28.788
+G,Treatment A,11.532
+G,Treatment A,51.255
+G,Treatment A,79.416
+G,Treatment A,21.551
+G,Treatment A,67.501
+G,Treatment A,27.602
+G,Treatment A,35.972
+G,Treatment A,80.852
+G,Treatment A,14.315
+G,Treatment A,44.161
+G,Treatment A,88.851
+G,Treatment A,5.886
+G,Treatment A,6.37
+P,Treatment A,37.834
+P,Treatment A,12.503
+P,Treatment A,38.644
+P,Treatment A,9.358
+P,Treatment A,52.944
+P,Treatment A,96.442
+P,Treatment A,36.162
+P,Treatment A,11.49
+P,Treatment A,42.371
+P,Treatment A,20.764
+P,Treatment A,6.184
+P,Treatment A,11.745
+P,Treatment A,8.721
+P,Treatment A,13.796
+P,Treatment A,15.481
+P,Treatment A,19.921
+P,Treatment A,7.854
+P,Treatment A,11.6
+P,Treatment A,57.927
+P,Treatment A,27.907
+P,Treatment A,13.911
+P,Treatment A,23.422
+P,Treatment A,99.002
+P,Treatment A,179.857
+P,Treatment A,61.228
+P,Treatment A,17.55
+P,Treatment A,26.501
+P,Treatment A,30.962
+P,Treatment A,8.531
+P,Treatment A,12.487
+P,Treatment A,61.745
+P,Treatment A,20.103
+P,Treatment A,60.553
+P,Treatment A,32.836
+P,Treatment A,29.275
+P,Treatment A,45.97
+P,Treatment A,49.247
+P,Treatment A,63.773
+P,Treatment A,53.36
+P,Treatment A,8.144
+P,Treatment A,14.764
+P,Treatment A,11.107
+P,Treatment A,19.921
+P,Treatment A,79.168
+P,Treatment A,60.699
+P,Treatment A,63.81
+P,Treatment A,111.255
+P,Treatment A,119.721
+P,Treatment A,15.964
+P,Treatment A,14.11
+P,Treatment A,10.804
+P,Treatment A,15.815
+P,Treatment A,53.868
+P,Treatment A,27.055
+P,Treatment A,56.266
+P,Treatment A,47.962
+P,Treatment A,31.202
+P,Treatment A,73.795
+P,Treatment A,134.777
+P,Treatment A,11.055
+P,Treatment A,8.203
+P,Treatment A,32.455
+P,Treatment A,26.581
+P,Treatment A,87.529
+P,Treatment A,63.274
+P,Treatment A,142.386
+P,Treatment A,65.691
+P,Treatment A,26.031
+P,Treatment A,105.539
+P,Treatment A,21.222
+P,Treatment A,61.485
+P,Treatment A,76.805
+P,Treatment A,16.778
+P,Treatment A,82.018
+P,Treatment A,86.106
+P,Treatment A,44.576
+P,Treatment A,54.935
+P,Treatment A,46.849
+P,Treatment A,49.641
+P,Treatment A,41.479
+P,Treatment A,73.286
+P,Treatment A,121.152
+P,Treatment A,83.07
+P,Treatment A,70.521
+P,Treatment A,46.336
+P,Treatment A,28.198
+P,Treatment A,18.318
+P,Treatment A,6.251
+P,Treatment A,129.734
+P,Treatment A,91.738
+P,Treatment A,22.834
+P,Treatment A,56.117
+P,Treatment A,13.016
+P,Treatment A,57.246
+P,Treatment A,23.49
+P,Treatment A,71.29
+P,Treatment A,149.92
+P,Treatment A,25.491
+P,Treatment A,118.734
+K,Control,74.744
+K,Control,94.345
+K,Control,70.695
+K,Control,108.96
+K,Control,84.696
+K,Control,58.964
+K,Control,102.614
+K,Control,25.755
+K,Control,57.669
+K,Control,6.343
+K,Control,51.036
+K,Control,16.901
+K,Control,6.5
+K,Control,16.8
+K,Control,63.127
+K,Control,62.912
+K,Control,76.582
+K,Control,91.411
+K,Control,74.099
+K,Control,66.833
+K,Control,14.196
+K,Control,18.926
+K,Control,91.134
+K,Control,85.464
+K,Control,27.546
+K,Control,94.292
+K,Control,56.158
+K,Control,70.695
+K,Control,34.902
+K,Control,30.254
+K,Control,51.788
+K,Control,120.929
+K,Control,96.98
+K,Control,52.781
+K,Control,127.227
+K,Control,9.447
+K,Control,8.798
+K,Control,15.988
+K,Control,180.222
+K,Control,6.769
+K,Control,15.892
+K,Control,91.118
+K,Control,204.496
+K,Control,105.131
+K,Control,53.854
+K,Control,43.622
+K,Control,46.799
+K,Control,123.58
+K,Control,41.431
+K,Control,11.638
+K,Control,83.901
+K,Control,85.475
+K,Control,123.411
+K,Control,30.948
+K,Control,39.818
+K,Control,35.902
+K,Control,54.222
+K,Control,25.404
+K,Control,77.49
+K,Control,121.163
+K,Control,53.021
+K,Control,28.646
+K,Control,76.288
+K,Control,56.426
+K,Control,57.487
+K,Control,3.876
+K,Control,12.888
+K,Control,23.889
+K,Control,33.702
+K,Control,81.288
+K,Control,65.501
+K,Control,13.031
+K,Control,117.571
+K,Control,20.44
+K,Control,44.998
+K,Control,90.429
+K,Control,57.672
+K,Control,81.574
+K,Control,102.584
+K,Control,36.096
+K,Control,64.821
+K,Control,92.185
+K,Control,20.584
+K,Control,24.326
+K,Control,32.77
+K,Control,18.451
+K,Control,10.186
+K,Control,34.584
+K,Control,25.131
+K,Control,11.966
+K,Control,21.658
+K,Control,20.76
+K,Control,43.678
+K,Control,30.209
+K,Control,79.781
+K,Control,81.155
+K,Control,87.378
+K,Control,50.722
+K,Control,21.754
+K,Control,37.176
+K,Control,9.891
+K,Control,68.343
+K,Control,129.901
+K,Control,125.543
+K,Control,22.203
+K,Control,29.696
+K,Control,70.116
+K,Control,97.29
+K,Control,38.415
+K,Control,23.165
+K,Control,13.526
+K,Control,139.427
+K,Control,16.617
+K,Control,22.309
+K,Control,22.01
+K,Control,104.797
+K,Control,63.211
+K,Control,8.426
+K,Control,95.016
+D,Control,85.325
+D,Control,40.724
+D,Control,20.924
+D,Control,85.733
+D,Control,85.325
+D,Control,40.724
+D,Control,20.924
+D,Control,85.733
+D,Control,77.452
+D,Control,32.488
+D,Control,46.422
+D,Control,7.157
+D,Control,16.604
+D,Control,72.263
+D,Control,125.67
+D,Control,58.795
+D,Control,48.937
+D,Control,62.088
+D,Control,12.439
+D,Control,8.305
+D,Control,8.387
+D,Control,5.525
+D,Control,20.27
+D,Control,61.656
+D,Control,82.072
+D,Control,39.205
+D,Control,36.114
+D,Control,56.21
+D,Control,77.098
+D,Control,39.18
+D,Control,160.19
+D,Control,73.217
+D,Control,53.008
+D,Control,54.332
+D,Control,21.971
+D,Control,6.476
+D,Control,41.067
+D,Control,98.193
+D,Control,76.451
+D,Control,87.553
+D,Control,42.919
+D,Control,63.102
+D,Control,22.981
+D,Control,28.148
+D,Control,23.096
+D,Control,33.507
+D,Control,69.85
+D,Control,109.542
+D,Control,68.216
+D,Control,60.064
+D,Control,98.744
+D,Control,74.828
+D,Control,41.317
+D,Control,52.091
+D,Control,76.787
+D,Control,38.985
+D,Control,21.743
+D,Control,21.128
+D,Control,35.156
+D,Control,8.151
+D,Control,6.175
+D,Control,11.093
+D,Control,44.494
+D,Control,9.868
+D,Control,15.829
+D,Control,60.623
+D,Control,137.395
+D,Control,43.364
+D,Control,8.924
+D,Control,9.772
+D,Control,34.584
+D,Control,137.95
+D,Control,38.647
+D,Control,85.89
+D,Control,63.416
+D,Control,81.384
+D,Control,42.505
+D,Control,48.926
+D,Control,43.259
+D,Control,8.586
+D,Control,59.963
+D,Control,62.923
+D,Control,50.39
+D,Control,66.832
+D,Control,120.194
+D,Control,39.03
+D,Control,33.3
+D,Control,19.341
+D,Control,24.104
+D,Control,45.378
+D,Control,32.615
+D,Control,14.244
+D,Control,31.954
+D,Control,53.905
+D,Control,24.834
+D,Control,46.024
+D,Control,91.125
+D,Control,71.771
+D,Control,18.56
+D,Control,25.921
+D,Control,65.963
+D,Control,29.974
+O,Treatment A,88.725
+O,Treatment A,93.276
+O,Treatment A,73.586
+O,Treatment A,72.883
+O,Treatment A,228.891
+O,Treatment A,47.996
+O,Treatment A,101.273
+O,Treatment A,34.673
+O,Treatment A,18.385
+O,Treatment A,21.125
+O,Treatment A,59.886
+O,Treatment A,36.676
+O,Treatment A,11.221
+O,Treatment A,33.482
+O,Treatment A,36.596
+O,Treatment A,41.313
+O,Treatment A,124.767
+O,Treatment A,20.972
+O,Treatment A,119.793
+O,Treatment A,151.432
+O,Treatment A,23.41
+O,Treatment A,18.83
+O,Treatment A,41.05
+O,Treatment A,125.414
+O,Treatment A,11.772
+O,Treatment A,68.25
+O,Treatment A,77.61
+O,Treatment A,45.307
+O,Treatment A,84.002
+O,Treatment A,33.342
+O,Treatment A,88.178
+O,Treatment A,14.159
+O,Treatment A,39.008
+O,Treatment A,11.117
+O,Treatment A,80.646
+O,Treatment A,83.452
+O,Treatment A,66.146
+O,Treatment A,47.78
+O,Treatment A,38.474
+O,Treatment A,16.308
+O,Treatment A,9.475
+O,Treatment A,21.395
+O,Treatment A,101.27
+O,Treatment A,10.823
+O,Treatment A,36.099
+O,Treatment A,29.34
+O,Treatment A,26.333
+O,Treatment A,14.982
+O,Treatment A,72.132
+O,Treatment A,20.954
+O,Treatment A,39.396
+O,Treatment A,40.948
+O,Treatment A,56.763
+O,Treatment A,25.207
+O,Treatment A,78.771
+O,Treatment A,131.188
+O,Treatment A,38.884
+O,Treatment A,20.021
+O,Treatment A,24.145
+O,Treatment A,71.707
+O,Treatment A,87.117
+O,Treatment A,27.681
+O,Treatment A,16.512
+O,Treatment A,32.273
+O,Treatment A,32.995
+O,Treatment A,25.819
+O,Treatment A,18.82
+O,Treatment A,39.498
+O,Treatment A,7.155
+O,Treatment A,20.972
+O,Treatment A,5.75
+O,Treatment A,30.824
+O,Treatment A,12.671
+O,Treatment A,13.17
+O,Treatment A,62.741
+O,Treatment A,20.38
+O,Treatment A,103.738
+O,Treatment A,10.92
+O,Treatment A,48.11
+O,Treatment A,70.615
+O,Treatment A,6.7
+O,Treatment A,31.763
+O,Treatment A,26.266
+O,Treatment A,100.464
+O,Treatment A,29.216
+O,Treatment A,100.01
+O,Treatment A,67.957
+O,Treatment A,125.068
+O,Treatment A,13.884
+O,Treatment A,15.988
+O,Treatment A,143.551
+O,Treatment A,10.769
+O,Treatment A,26.847
+O,Treatment A,24.999
+O,Treatment A,30.502
+O,Treatment A,11.375
+O,Treatment A,18.072
+O,Treatment A,68.485
+O,Treatment A,8.305
+O,Treatment A,18.391
+O,Treatment A,33.216
+O,Treatment A,41.64
+C,Treatment B,25.483
+C,Treatment B,94.199
+C,Treatment B,157.117
+C,Treatment B,16.256
+C,Treatment B,103.138
+C,Treatment B,21.91
+C,Treatment B,72.518
+C,Treatment B,137.639
+C,Treatment B,43.678
+C,Treatment B,80.593
+C,Treatment B,80.593
+C,Treatment B,26.928
+C,Treatment B,41.513
+C,Treatment B,21.952
+C,Treatment B,12.857
+C,Treatment B,27.175
+C,Treatment B,12.946
+C,Treatment B,56.343
+C,Treatment B,66.402
+C,Treatment B,37.612
+C,Treatment B,23.206
+C,Treatment B,6.209
+C,Treatment B,26.154
+C,Treatment B,49.262
+C,Treatment B,12.716
+C,Treatment B,78.479
+C,Treatment B,54.493
+C,Treatment B,107.008
+C,Treatment B,23.539
+C,Treatment B,17.556
+C,Treatment B,20.934
+C,Treatment B,73.97
+C,Treatment B,58.099
+C,Treatment B,118.124
+C,Treatment B,30.925
+C,Treatment B,10.348
+C,Treatment B,5.251
+C,Treatment B,32.57
+C,Treatment B,10.205
+C,Treatment B,52.976
+C,Treatment B,95.743
+C,Treatment B,43.644
+C,Treatment B,106.237
+C,Treatment B,44.755
+C,Treatment B,59.024
+C,Treatment B,44.98
+C,Treatment B,18.544
+C,Treatment B,42.761
+C,Treatment B,74.421
+C,Treatment B,11.579
+C,Treatment B,78.333
+C,Treatment B,35.309
+C,Treatment B,12.455
+C,Treatment B,10.481
+C,Treatment B,52.99
+C,Treatment B,116.533
+C,Treatment B,22.621
+C,Treatment B,35.727
+C,Treatment B,42.853
+C,Treatment B,16.294
+C,Treatment B,13.122
+C,Treatment B,15.644
+C,Treatment B,143.792
+C,Treatment B,49.936
+C,Treatment B,84.83
+C,Treatment B,33.033
+C,Treatment B,17.421
+C,Treatment B,24.941
+C,Treatment B,35.018
+C,Treatment B,53.73
+C,Treatment B,14.333
+C,Treatment B,91.375
+C,Treatment B,9.158
+C,Treatment B,64.196
+C,Treatment B,67.392
+C,Treatment B,14.57
+C,Treatment B,13.257
+C,Treatment B,38.017
+C,Treatment B,61.082
+C,Treatment B,72.904
+C,Treatment B,91.528
+C,Treatment B,6.581
+C,Treatment B,22.808
+C,Treatment B,28.737
+C,Treatment B,5.535
+C,Treatment B,86.889
+C,Treatment B,51.1
+C,Treatment B,5.077
+C,Treatment B,58.283
+C,Treatment B,4.875
+C,Treatment B,27.951
+C,Treatment B,31.517
+C,Treatment B,35.121
+C,Treatment B,5.409
+C,Treatment B,95.447
+C,Treatment B,11.093
+C,Treatment B,24.592
+C,Treatment B,22.708
+C,Treatment B,92.745
+C,Treatment B,11.541
+C,Treatment B,44.484
+C,Treatment B,48.09
+C,Treatment B,85.277
+C,Treatment B,4.95
+C,Treatment B,43.411
+C,Treatment B,21.649
+Q,Treatment A,15.938
+Q,Treatment A,11.207
+Q,Treatment A,31.122
+Q,Treatment A,64.322
+Q,Treatment A,62.416
+Q,Treatment A,17.18
+Q,Treatment A,14.427
+Q,Treatment A,6.209
+Q,Treatment A,69.821
+Q,Treatment A,17.52
+Q,Treatment A,11.282
+Q,Treatment A,100.861
+Q,Treatment A,34.711
+Q,Treatment A,37.203
+Q,Treatment A,20.601
+Q,Treatment A,71.507
+Q,Treatment A,76.194
+Q,Treatment A,53.839
+Q,Treatment A,41.246
+Q,Treatment A,17.062
+Q,Treatment A,49.964
+Q,Treatment A,93.676
+Q,Treatment A,8.047
+Q,Treatment A,61.192
+Q,Treatment A,23.697
+Q,Treatment A,33.307
+Q,Treatment A,41.761
+Q,Treatment A,26.762
+Q,Treatment A,100.64
+Q,Treatment A,6.31
+Q,Treatment A,5.993
+Q,Treatment A,36.941
+Q,Treatment A,36.194
+Q,Treatment A,32.326
+Q,Treatment A,58.183
+Q,Treatment A,95.237
+Q,Treatment A,116.081
+Q,Treatment A,28.542
+Q,Treatment A,98.98
+Q,Treatment A,36.296
+Q,Treatment A,59.651
+Q,Treatment A,38.741
+Q,Treatment A,94.243
+Q,Treatment A,55.856
+Q,Treatment A,34.447
+Q,Treatment A,32.726
+Q,Treatment A,52.916
+Q,Treatment A,51.384
+Q,Treatment A,122.621
+Q,Treatment A,15.654
+Q,Treatment A,61.642
+Q,Treatment A,64.016
+Q,Treatment A,40.262
+Q,Treatment A,46.567
+Q,Treatment A,65.7
+Q,Treatment A,52.11
+Q,Treatment A,22.867
+Q,Treatment A,37.935
+Q,Treatment A,20.545
+Q,Treatment A,98.849
+Q,Treatment A,67.893
+Q,Treatment A,105.805
+Q,Treatment A,89.848
+Q,Treatment A,100.242
+Q,Treatment A,6.402
+Q,Treatment A,25.601
+Q,Treatment A,20.372
+Q,Treatment A,122.374
+Q,Treatment A,78.812
+Q,Treatment A,33.967
+Q,Treatment A,26.341
+Q,Treatment A,49.654
+Q,Treatment A,109.948
+Q,Treatment A,22.086
+Q,Treatment A,125.503
+Q,Treatment A,80.99
+Q,Treatment A,25.628
+Q,Treatment A,12.89
+Q,Treatment A,12.264
+Q,Treatment A,55.593
+Q,Treatment A,29.667
+Q,Treatment A,8.635
+Q,Treatment A,101.78
+Q,Treatment A,17.981
+Q,Treatment A,25.41
+Q,Treatment A,19.554
+Q,Treatment A,98.477
+Q,Treatment A,88.566
+Q,Treatment A,12.507
+Q,Treatment A,35.157
+Q,Treatment A,31.852
+Q,Treatment A,82.702
+Q,Treatment A,37.316
+Q,Treatment A,96.696
+Q,Treatment A,30.407
+Q,Treatment A,17.577
+Q,Treatment A,56.656
+Q,Treatment A,75.593
+Q,Treatment A,66.112
+Q,Treatment A,5.563
+Q,Treatment A,3.967
+Q,Treatment A,31.374
+Q,Treatment A,13.337
+Q,Treatment A,57.251
+Q,Treatment A,19.56
+Q,Treatment A,173.614
+Q,Treatment A,16.011
+Q,Treatment A,63.754
+Q,Treatment A,16.227
+Q,Treatment A,3.954
+B,Treatment B,84.295
+B,Treatment B,10.481
+B,Treatment B,34.888
+B,Treatment B,3.59
+B,Treatment B,18.171
+B,Treatment B,66.619
+B,Treatment B,29.451
+B,Treatment B,19.387
+B,Treatment B,13.654
+B,Treatment B,11.718
+B,Treatment B,6.508
+B,Treatment B,8.183
+B,Treatment B,3.706
+B,Treatment B,45.263
+B,Treatment B,16.279
+B,Treatment B,6.894
+B,Treatment B,6.451
+B,Treatment B,66.374
+B,Treatment B,102.619
+B,Treatment B,29.21
+B,Treatment B,73.929
+B,Treatment B,26.858
+B,Treatment B,4.732
+B,Treatment B,22.647
+B,Treatment B,123.359
+B,Treatment B,108.586
+B,Treatment B,68.828
+B,Treatment B,40.394
+B,Treatment B,138.756
+B,Treatment B,12.779
+B,Treatment B,10.611
+B,Treatment B,12.386
+B,Treatment B,4.732
+B,Treatment B,39.175
+B,Treatment B,77.406
+B,Treatment B,57.74
+B,Treatment B,57.761
+B,Treatment B,13.817
+B,Treatment B,70.206
+B,Treatment B,130.502
+B,Treatment B,87.744
+B,Treatment B,79.208
+B,Treatment B,12.303
+B,Treatment B,10.205
+B,Treatment B,92.893
+B,Treatment B,28.318
+B,Treatment B,9.374
+B,Treatment B,43.102
+B,Treatment B,47.293
+B,Treatment B,76.273
+B,Treatment B,17.529
+B,Treatment B,103.401
+B,Treatment B,120.551
+B,Treatment B,75.018
+B,Treatment B,15.341
+B,Treatment B,26.495
+B,Treatment B,64.117
+B,Treatment B,90.586
+B,Treatment B,10.759
+B,Treatment B,54.988
+B,Treatment B,95.474
+B,Treatment B,114.818
+B,Treatment B,14.304
+B,Treatment B,59.845
+B,Treatment B,7.482
+B,Treatment B,41.703
+B,Treatment B,15.586
+B,Treatment B,47.98
+B,Treatment B,13.101
+B,Treatment B,134.056
+B,Treatment B,37.07
+B,Treatment B,83.763
+B,Treatment B,17.848
+B,Treatment B,27.99
+B,Treatment B,161.567
+B,Treatment B,11.055
+B,Treatment B,80.948
+B,Treatment B,54.247
+B,Treatment B,6.251
+B,Treatment B,62.052
+B,Treatment B,31.733
+B,Treatment B,52.517
+B,Treatment B,57.914
+B,Treatment B,88.3
+B,Treatment B,78.187
+B,Treatment B,58.618
+B,Treatment B,15.547
+B,Treatment B,136.442
+B,Treatment B,117.963
+B,Treatment B,28.231
+B,Treatment B,25.133
+B,Treatment B,80.895
+B,Treatment B,151.245
+B,Treatment B,6.629
+B,Treatment B,85.373
+B,Treatment B,58.346
+B,Treatment B,13.23
+B,Treatment B,40.048
+B,Treatment B,43.657
+B,Treatment B,18.705
+B,Treatment B,64.853
+A,Treatment B,14.366
+A,Treatment B,8.125
+A,Treatment B,12.288
+A,Treatment B,16.447
+A,Treatment B,48.989
+A,Treatment B,88.456
+A,Treatment B,52.747
+A,Treatment B,18.072
+A,Treatment B,31.221
+A,Treatment B,36.268
+A,Treatment B,19.769
+A,Treatment B,34.326
+A,Treatment B,89.907
+A,Treatment B,54.859
+A,Treatment B,48.996
+A,Treatment B,91.887
+A,Treatment B,31.926
+A,Treatment B,22.836
+A,Treatment B,8.286
+A,Treatment B,33.726
+A,Treatment B,30.622
+A,Treatment B,75.984
+A,Treatment B,22.347
+A,Treatment B,33.999
+A,Treatment B,89.425
+A,Treatment B,44.749
+A,Treatment B,27.087
+A,Treatment B,15.725
+A,Treatment B,51.398
+A,Treatment B,96.502
+A,Treatment B,4.831
+A,Treatment B,23.666
+A,Treatment B,56.614
+A,Treatment B,140.392
+A,Treatment B,16.705
+A,Treatment B,49.056
+A,Treatment B,13.101
+A,Treatment B,55.507
+A,Treatment B,11.117
+A,Treatment B,14.278
+A,Treatment B,71.929
+A,Treatment B,9.358
+A,Treatment B,12.212
+A,Treatment B,35.521
+A,Treatment B,57.958
+A,Treatment B,26.612
+A,Treatment B,39.039
+A,Treatment B,13.341
+A,Treatment B,10.818
+A,Treatment B,14.333
+A,Treatment B,11.49
+A,Treatment B,21.836
+A,Treatment B,36.042
+A,Treatment B,6.184
+A,Treatment B,71.965
+A,Treatment B,13.198
+A,Treatment B,38.6
+A,Treatment B,66.716
+A,Treatment B,19.675
+A,Treatment B,4.875
+A,Treatment B,70.145
+A,Treatment B,97.917
+A,Treatment B,52.081
+A,Treatment B,32.897
+A,Treatment B,27.141
+A,Treatment B,8.227
+A,Treatment B,45.291
+A,Treatment B,55.102
+A,Treatment B,30.828
+A,Treatment B,71.87
+A,Treatment B,42.949
+A,Treatment B,19.182
+A,Treatment B,5.291
+A,Treatment B,5.786
+A,Treatment B,8.672
+A,Treatment B,47.686
+A,Treatment B,10.73
+A,Treatment B,13.384
+A,Treatment B,40.492
+A,Treatment B,17.063
+A,Treatment B,10.703
+A,Treatment B,55.657
+A,Treatment B,4.42
+A,Treatment B,42.446
+A,Treatment B,72.585
+A,Treatment B,137.181
+A,Treatment B,128.045
+A,Treatment B,42.463
+A,Treatment B,51.599
+A,Treatment B,98.795
+A,Treatment B,57.797
+A,Treatment B,31.6
+A,Treatment B,53.27
+A,Treatment B,48.437
+A,Treatment B,40.505
+A,Treatment B,39.605
+A,Treatment B,10.997
+A,Treatment B,23.92
+A,Treatment B,85.056
+A,Treatment B,9.464
+A,Treatment B,8.924
+A,Treatment B,17.21
+I,Control,21.552
+I,Control,86.33
+I,Control,8.871
+I,Control,12.217
+I,Control,13.261
+I,Control,23.94
+I,Control,135.09
+I,Control,8.733
+I,Control,14.211
+I,Control,27.418
+I,Control,13.372
+I,Control,36.854
+I,Control,43.341
+I,Control,48.704
+I,Control,90.885
+I,Control,14.793
+I,Control,23.004
+I,Control,36.565
+I,Control,33.342
+I,Control,25.555
+I,Control,29.568
+I,Control,49.597
+I,Control,45.48
+I,Control,29.956
+I,Control,26.8
+I,Control,19.543
+I,Control,13.329
+I,Control,59.222
+I,Control,29.071
+I,Control,31.37
+I,Control,14.2
+I,Control,48.114
+I,Control,46.589
+I,Control,30.511
+I,Control,93.059
+I,Control,4.875
+I,Control,13.611
+I,Control,52.327
+I,Control,14.737
+I,Control,178.793
+I,Control,46.595
+I,Control,139.711
+I,Control,31.735
+I,Control,121.223
+I,Control,61.974
+I,Control,106.492
+I,Control,114.732
+I,Control,118.725
+I,Control,35.375
+I,Control,11.093
+I,Control,162.504
+I,Control,150.357
+I,Control,148.987
+I,Control,100.344
+I,Control,42.522
+I,Control,30.68
+I,Control,74.468
+I,Control,54.43
+I,Control,26.202
+I,Control,102.938
+I,Control,117.607
+I,Control,56.411
+I,Control,18.223
+E,Treatment B,59.225
+E,Treatment B,77.464
+E,Treatment B,75.203
+E,Treatment B,13.426
+E,Treatment B,13.518
+E,Treatment B,21.592
+E,Treatment B,7.482
+E,Treatment B,49.92
+E,Treatment B,18.029
+E,Treatment B,10.283
+E,Treatment B,19.108
+E,Treatment B,22.508
+E,Treatment B,11.741
+E,Treatment B,17.232
+E,Treatment B,3.083
+E,Treatment B,8.654
+E,Treatment B,15.875
+E,Treatment B,31.058
+E,Treatment B,6.251
+E,Treatment B,5.814
+E,Treatment B,66.478
+E,Treatment B,30.104
+E,Treatment B,30.104
+E,Treatment B,47.925
+E,Treatment B,41.606
+E,Treatment B,11.889
+E,Treatment B,10.575
+E,Treatment B,5.535
+E,Treatment B,70.77
+E,Treatment B,21.324
+E,Treatment B,37.785
+E,Treatment B,37.006
+E,Treatment B,18.051
+E,Treatment B,32.273
+E,Treatment B,53.588
+E,Treatment B,18.786
+E,Treatment B,22.851
+E,Treatment B,115.673
+E,Treatment B,11.449
+E,Treatment B,20.516
+E,Treatment B,4.831
+E,Treatment B,10.453
+E,Treatment B,60.27
+E,Treatment B,116.424
+E,Treatment B,21.917
+E,Treatment B,22.482
+E,Treatment B,9.884
+E,Treatment B,6.045
+E,Treatment B,4.372
+E,Treatment B,64.415
+E,Treatment B,6.251
+E,Treatment B,7.705
+E,Treatment B,11.319
+E,Treatment B,8.286
+E,Treatment B,54.912
+E,Treatment B,69.211
+E,Treatment B,60.792
+E,Treatment B,8.45
+E,Treatment B,164.951
+E,Treatment B,37.526
+E,Treatment B,20.884
+E,Treatment B,7.001
+E,Treatment B,36.896
+E,Treatment B,17.225
+E,Treatment B,36.516
+E,Treatment B,17.592
+E,Treatment B,64.308
+E,Treatment B,16.357
+E,Treatment B,10.99
+E,Treatment B,6.251
+E,Treatment B,12.394
+E,Treatment B,40.2
+E,Treatment B,36.359
+E,Treatment B,32.846
+E,Treatment B,27.373
+E,Treatment B,13.178
+E,Treatment B,104.811
+E,Treatment B,55.943
+E,Treatment B,14.625
+E,Treatment B,72.099
+E,Treatment B,9.836
+E,Treatment B,52.939
+E,Treatment B,20.891
+E,Treatment B,36.254
+E,Treatment B,47.263
+E,Treatment B,13.361
+E,Treatment B,12.741
+E,Treatment B,51.334
+E,Treatment B,17.925
+E,Treatment B,9.884
+E,Treatment B,104.176
+E,Treatment B,23
+E,Treatment B,70.783
+E,Treatment B,28.097
+E,Treatment B,17.516
+E,Treatment B,57.959
+E,Treatment B,16.318
+E,Treatment B,13.611
+E,Treatment B,16.057
+E,Treatment B,68.191
+E,Treatment B,8.751
+E,Treatment B,9.603
+E,Treatment B,26.533
+E,Treatment B,22.261
+E,Treatment B,18.02
+F,Control,101.451
+F,Control,66.983
+F,Control,23.042
+F,Control,7.031
+F,Control,57.31
+F,Control,37.443
+F,Control,63.981
+F,Control,66.235
+F,Control,89.441
+F,Control,75.347
+F,Control,86.874
+F,Control,116.326
+F,Control,48.421
+F,Control,106.358
+F,Control,57.306
+F,Control,192.307
+F,Control,121.214
+F,Control,56.689
+F,Control,33.39
+F,Control,118.901
+F,Control,154.063
+F,Control,24.92
+F,Control,86.19
+F,Control,63.418
+F,Control,93.198
+F,Control,6.856
+F,Control,89.594
+F,Control,87.849
+F,Control,107.908
+F,Control,82.649
+F,Control,80.81
+F,Control,95.217
+F,Control,23.441
+F,Control,18.867
+F,Control,37.125
+F,Control,35.571
+F,Control,129.664
+F,Control,117.597
+F,Control,19.897
+F,Control,22.898
+F,Control,105.855
+F,Control,84.876
+F,Control,79.912
+F,Control,32.643
+F,Control,111.675
+F,Control,63.262
+F,Control,34.35
+F,Control,132.187
+F,Control,24.847
+F,Control,72.526
+F,Control,127.746
+F,Control,9.884
+F,Control,23.001
+F,Control,17.293
+F,Control,48.384
+F,Control,120.038
+F,Control,63.606
+F,Control,101.987
+F,Control,45.787
+F,Control,50.835
+F,Control,65.116
+F,Control,74.397
+F,Control,92.152
+F,Control,96.592
+F,Control,52.195
+F,Control,16.121
+F,Control,24.642
+F,Control,24.353
+F,Control,50.037
+F,Control,61.486
+F,Control,14.524
+F,Control,76.674
+F,Control,143.323
+F,Control,18.148
+F,Control,78.177
+F,Control,204.844
+F,Control,142.23
+F,Control,90.339
+F,Control,50.638
+F,Control,91.196
+F,Control,28.704
+F,Control,60.219
+F,Control,48.866
+F,Control,24.685
+F,Control,29.274
+F,Control,66.487
+F,Control,33.892
+F,Control,31.203
+F,Control,24.085
+F,Control,92.15
+F,Control,54.603
+F,Control,55.24
+F,Control,117.173
+F,Control,79.43
+F,Control,153.965
+F,Control,21.814
+F,Control,106.227
+F,Control,25.148
+F,Control,131.474
+F,Control,103.103
+F,Control,75.384
+F,Control,74.091
+F,Control,10.369
+F,Control,58.312
+F,Control,32.996
+F,Control,48.171
+F,Control,69.818
+F,Control,45.478
+F,Control,30.165

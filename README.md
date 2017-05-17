@@ -1,8 +1,5 @@
-# Friendly-Intro-to-R
-Danielle and Lilly teach a v friendly intro to R and R Studio.
-
-
-simple analysis in R in a 45 minute code-along workshop.
+# Rstats_4_n00bs
+DR and LW make a plan to teach the n00bs some simple analysis in R in a 45 minute code-along workshop.
 
 Start with the Intro.Rmd file, that's our presentation with some R basics and resources.
 

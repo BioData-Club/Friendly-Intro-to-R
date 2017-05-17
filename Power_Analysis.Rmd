@@ -1,0 +1,40 @@
+---
+title: "Power Analysis"
+author: "Danielle Robinson"
+date: "May 31, 2016"
+output: html_document
+---
+
+
+
+##What are the variables in a power analysis?
+n, d, sig.level, and power are dependent on each other. If you have three, you can calculate the fourth.
+
+  n = number of samples in each group
+  d =  Cohen's d, or "effect size"
+  sig.level = 0.05
+  power = 0.75 (0.2 is low power, 0.5 is medium, 0.8 is high power)
+  alternative = two.sided (default)
+  
+##Calculating Cohen's d
+d = effect size calculated with help from http://www.socscistatistics.com/effectsize/Default3.aspx
+  Cohen's d = (M2 - M1) ⁄ SDpooled
+  SDpooled = √((SD12 + SD22) ⁄ 2)
+  
+##For my predicted data:  
+Cohen's d = (40.47 - 33.05) ⁄ 5.458416 = 1.359369.
+
+##Running the code:
+```{r}
+library(pwr)
+pwr.t.test(n = NULL, d = 1.359369, power = 0.75, sig.level = 0.05, type = "two.sample", alternative = "two.sided")
+```
+
+It is possible that I could see an effect with an n=9. If I drop the power to 0.5...
+
+```{r}
+pwr.t.test(n = NULL, d = 1.359369, power = 0.5, sig.level = 0.05, type = "two.sample", alternative = "two.sided")
+```
+
+##Conclusion: It is possible to see a moderate to large effect with  n= ~8 
+

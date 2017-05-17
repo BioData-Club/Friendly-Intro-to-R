@@ -1,0 +1,83 @@
+---
+title: "Basic Stats"
+author: "Lilly Winfree, Danielle Robinson & Wes Horton"
+date: "September 6, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Let's learn how to read in data and then do some basic statistical analysis.
+Read in data:
+
+```{r}
+data1<-read.table("example_lengths_for_R.csv", header=TRUE, sep=',')
+```
+
+Reminder! Name your variables carefully!
+
+Note: When we read in the data, we need to specify if there is a **header** (or column titles) and how the data is separated, or **sep**. This data is a csv so it is separated by ',' - sometimes data can be separated by '|' for example.
+
+We can look at the data quickly using **summary()**, **nrow()** to see the row numbers, **colnames()** for column names:
+
+```{r}
+summary(data1)
+nrow(data1)
+colnames(data1)
+```
+
+We can subset to different columns with **$** and only see select rows with **[:]**
+
+```{r}
+data1$coverlip.code[1:10]
+data1$treatment[1:10]
+summary(data1$values)
+summary(data1$values[data1$treatment=='Control'])
+```
+
+Let's plot our data!
+
+```{r}
+plot(data1$treatment, data1$values, xlab='treatment', ylab='length values')
+```
+
+Note that **xlab** and **ylab** mean x and y labels.
+
+We can also use **hist()** to make a histogram:
+```{r}
+hist(data1$values[data1$treatment=='Control'], xlab='Length Values', 
+     main='Histogram of Length for Control Group')
+```
+
+Note that **main** means title here.
+
+Now let's look at how to do some basic stats:
+```{r}
+mean(data1$values[data1$treatment=='Treatment A'])
+mean(data1$values[data1$treatment=='Control'])
+mean(data1$values[data1$treatment=='Treatment B'])
+median(data1$values[data1$treatment=='Control'])
+var(data1$values[data1$treatment=='Control'])
+min(data1$values[data1$treatment=='Control'])
+max(data1$values[data1$treatment=='Control'])
+```
+
+Notice how summary() gave us the same info as the above functions
+
+OK let's do a t-test now! We can use **t.test** to compare the means between 2 of the groups
+```{r}
+t.test(data1$values[data1$treatment=='Control'], data1$values[data1$treatment=='Treatment B'])
+```
+
+What does this tell us?
+How do we change the code to look at the other groups?
+
+We can also do an ANOVA with this data using **aov** and plot the ANOVA information:
+```{r}
+results<-aov(values ~ treatment, data=data1)
+summary(results)
+```
+
+See ANOVA doc for more info on how an ANOVA works.
