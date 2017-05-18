@@ -7,7 +7,7 @@ This workshop is designed for R beginners. **If you've never coded before - you 
 ## About us
 [Lilly Winfree](https://twitter.com/lilscientista) is a Science and Data Analyst at the [Monarch Initiative](https://monarchinitiative.org/) based at OHSU. She has a PhD in neuroscience and she works with the Monarch Initiative bioinformatics team to derive biological stories from the data and then communicates those stories to the world through talks, articles, and sometimes [fun tweets](https://twitter.com/MonarchInit/status/843948869385838592)!
 
-[Danielle Robinson](https://twitter.com/daniellecrobins) is a [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships) who works with scientists, libraians, and non profits like [Code for Science](https://codeforscience.org/) to advance open data. She has a PhD in neuroscience and is working on a metadata manifesto.
+[Danielle Robinson](https://twitter.com/daniellecrobins) is a [Mozilla Fellow for Science](https://science.mozilla.org/programs/fellowships) who works with scientists, librarians, and non profits like [Code for Science](https://codeforscience.org/) to advance open data. She has a PhD in neuroscience and is working on a metadata manifesto.
 
 ## About the workshop
 This is an aproximately 45 minute code-along workshop.
