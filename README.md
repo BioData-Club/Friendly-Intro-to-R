@@ -2,9 +2,7 @@
 
 ## :tada: Welcome! :tada:
 
-Danielle and Lilly are here to give you a very Friendly Intro to R. 
-
-This workshop is designed for R beginners. **If you've never coded before - you are in the right place!** If you have coded before, we may draft you to help out. Please feel free to **create an issue** to give us some feedback, let us know what you want to learn next, or suggest another topic.  This is loosely based on a [basic R](https://github.com/daniellecrobinson/Rstats_4_n00bs) session we did at the 2016 PMCB retreat.
+This workshop is designed for R beginners. **If you've never coded before - you are in the right place!** If you have coded before, we may draft you to help out. Please feel free to [create an issue](https://github.com/BioData-Club/Friendly-Intro-to-R/issues) to give us feedback or let us know what you want to learn next.  This is loosely based on a [basic R](https://github.com/daniellecrobinson/Rstats_4_n00bs) session we did at the 2016 PMCB retreat.
 
 ## About us
 [Lilly Winfree](https://twitter.com/lilscientista) is a Science and Data Analyst at the [Monarch Initiative](https://monarchinitiative.org/) based at OHSU. She has a PhD in neuroscience and she works with the Monarch Initiative bioinformatics team to derive biological stories from the data and then communicates those stories to the world through talks, articles, and sometimes [fun tweets](https://twitter.com/MonarchInit/status/843948869385838592)!
@@ -18,7 +16,11 @@ This is an aproximately 45 minute code-along workshop.
 1. Download and install R Studio
 2. Become comfortable with the R Studio interface
 3. Import a dataset into R studio
-4. Learn to use R for basic exploratory data analyis and data visualizaiton 
+4. Learn to use R for basic exploratory data analyis and data visualizaiton
+  - Determine mean, median
+  - Run a t-test
+  - Run an ANOVA
+  - Create histograms and other basic data visulizations
 5. Discuss future directions - what do *you* want to learn next?
 
 ### Let's get started!
