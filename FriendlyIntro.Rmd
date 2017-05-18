@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Download R Studio 
     + https://www.rstudio.com/products/rstudio/download3/
 - Go to our Github page: 
-    + https://github.com/daniellecrobinson/Rstats_4_n00bs
+    + https://github.com/BioData-Club/Friendly-Intro-to-R
 ```{r fig.width=5, fig.height=3,echo=FALSE}
 library(png)
 library(grid)
