@@ -1,8 +1,10 @@
 # A Friendly Introduction to R!
 
-Welcome! :tada:
+## :tada: Welcome! :tada:
 
-Danielle and Lilly are here to give you a very Friendly Intro to R. This is loosely based on a [basic R](https://github.com/daniellecrobinson/Rstats_4_n00bs) session we did at the 2016 PMCB retreat.
+Danielle and Lilly are here to give you a very Friendly Intro to R. 
+
+This workshop is designed for R beginners. **If you've never coded before - you are in the right place!** If you have coded before, we may draft you to help out. Please feel free to **create an issue** to give us some feedback, let us know what you want to learn next, or suggest another topic.  This is loosely based on a [basic R](https://github.com/daniellecrobinson/Rstats_4_n00bs) session we did at the 2016 PMCB retreat.
 
 ## About us
 [Lilly Winfree](https://twitter.com/lilscientista) is a Science and Data Analyst at the [Monarch Initiative](https://monarchinitiative.org/) based at OHSU. She has a PhD in neuroscience and she works with the Monarch Initiative bioinformatics team to derive biological stories from the data and then communicates those stories to the world through talks, articles, and sometimes [fun tweets](https://twitter.com/MonarchInit/status/843948869385838592)!
