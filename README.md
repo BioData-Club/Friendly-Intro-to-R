@@ -24,7 +24,7 @@ This is an aproximately 45 minute code-along workshop.
 5. Discuss future directions - what do *you* want to learn next?
 
 ### Let's get started!
-Start with the [Friendly-Intro.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/Friendly-Intro.Rmd) file, that's our presentation with some R basics and resources.
+Start with the [Friendly-Intro.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/FriendlyIntro.Rmd) file, that's our presentation with some R basics and resources.
 
 Then download [example_lengths_for_R.csv](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/example_lengths_for_R.csv) to your machine. 
 
