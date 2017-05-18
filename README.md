@@ -16,12 +16,15 @@ This is an aproximately 45 minute code-along workshop.
 1. Download and install R Studio
 2. Become comfortable with the R Studio interface
 3. Import a dataset into R studio
-4. Learn to use R for basic exploratory data analyis and data visualizaiton
+4. Learn to use R for basic exploratory data analyis and data visualization
   - Determine mean, median
   - Run a t-test
   - Run an ANOVA
-  - Create histograms and other basic data visulizations
-5. Discuss future directions - what do *you* want to learn next?
+  - Create histograms and other basic data visualizations
+5. Meet other scientists who are learning to code!
+  - Learn about [BioData Club](https://biodata-club.github.io/) and other free local classes
+  - Discuss your goals 
+  - What do *you* want to learn next?
 
 ### Let's get started!
 Start with the [Friendly-Intro.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/FriendlyIntro.Rmd) file, that's our presentation with some R basics and resources.
