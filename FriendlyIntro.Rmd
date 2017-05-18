@@ -10,7 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Before we begin
-- Download R Studio 
+- Download R - this is the binary containing R language stuff - it comes with a basic interface, but we won't use it. You need to download this first so your computer will know what to do with R Studio.
+    + https://cran.rstudio.com/
+- Download R Studio - this is an interface that makes it easy to work with R.
     + https://www.rstudio.com/products/rstudio/download3/
 - Go to our Github page: 
     + https://github.com/BioData-Club/Friendly-Intro-to-R
