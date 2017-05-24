@@ -1,4 +1,11 @@
 ---
+output:
+  pdf_document: default
+  html_document: default
+---
+#install.packages("png")
+
+---
 title: "A Friendly Intro to R - BioData Club"
 author: "Danielle Robinson & Lilly Winfree"
 date: "May 26 2017"
@@ -19,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r fig.width=5, fig.height=3,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Desktop/Rstats_4_n00bs-master/Github.png")
+img <- readPNG("~/Friendly-Intro-to-R/Github.png")
  grid.raster(img)
 ```
 - Click on "Clone or Download"
@@ -59,7 +66,7 @@ print(x)
 ```{r fig.width=8, fig.height=5,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Desktop/Rstats_4_n00bs-master/rstudio.png")
+img <- readPNG("~/Friendly-Intro-to-R/rstudio.png")
  grid.raster(img)
 ```
 
@@ -77,15 +84,7 @@ img <- readPNG("~/Desktop/Rstats_4_n00bs-master/rstudio.png")
 ```{r fig.width=8, fig.height=5,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Desktop/Rstats_4_n00bs-master/SHD.png")
- grid.raster(img)
-```
-
-## Fun Events:
-```{r fig.width=8, fig.height=5,echo=FALSE}
-library(png)
-library(grid)
-img <- readPNG("~/Desktop/Rstats_4_n00bs-master/WIS_OMSI.png")
+img <- readPNG("~/Friendly-Intro-to-R/SHD_2017.png")
  grid.raster(img)
 ```
 
@@ -101,6 +100,6 @@ We'll start with "BasicStatsCode.pdf"
 ###_PLEASE ASK US IF YOU ARE CONFUSED! :-)_
 
 
-~Use your **yellow** sticky note for "confused" and **green** for "ok"~
+Use your **yellow** sticky note for "confused" and **green** for "ok"
 
 
