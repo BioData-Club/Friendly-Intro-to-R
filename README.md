@@ -31,7 +31,7 @@ Start with the [Friendly-Intro.Rmd](https://github.com/BioData-Club/Friendly-Int
 
 Then download [example_lengths_for_R.csv](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/example_lengths_for_R.csv) to your machine. 
 
-From there, you'll move on to the exercises in [BasticStatsCode.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/BasicStatsCode.Rmd).
+From there, you'll move on to the exercises in [BasticStatsCode.Pdf](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/BasicStatsCode.Pdf).
 
 [Power_Analysis.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/Power_Analysis.Rmd) and [ANOVA.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/ANOVA.Rmd) are extra files we may or may not get to.
 
