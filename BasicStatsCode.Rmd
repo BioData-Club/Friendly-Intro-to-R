@@ -1,8 +1,13 @@
 ---
 title: "Basic Stats"
-author: "Lilly Winfree, Danielle Robinson & Wes Horton"
-date: "September 6, 2016"
-output: pdf_document
+author: "Lilly Winfree, Danielle Robinson"
+date: "May 26"
+output:
+  pdf_document: default
+  html_document: default
+  ioslides_presentation: default
+  beamer_presentation: default
+  slidy_presentation: default
 ---
 
 ```{r setup, include=FALSE}

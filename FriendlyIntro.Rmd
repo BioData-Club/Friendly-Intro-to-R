@@ -1,9 +1,10 @@
 ---
 output:
+  slidy_presentation: default
+  ioslides_presentation: default
   pdf_document: default
   html_document: default
 ---
-#install.packages("png")
 
 ---
 title: "A Friendly Intro to R - BioData Club"
