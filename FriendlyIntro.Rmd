@@ -59,6 +59,11 @@ print(x)
 - variable names can't start with a number
     + eg Data1 not 1Data
 - throwing errors is normal! You will create errors _a lot_
+- when you need to install package: 
+```{r}
+install.packages(ggplot)
+```
+
 
 ### R is _stupid_ and only knows what _you_ input
 
