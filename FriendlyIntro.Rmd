@@ -89,8 +89,10 @@ img <- readPNG("~/Friendly-Intro-to-R/rstudio.png")
 ```{r fig.width=8, fig.height=5,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Friendly-Intro-to-R/SHD_2017.png")
- grid.raster(img)
+img1 <- readPNG("~/Friendly-Intro-to-R/SHD_2017.png")
+ grid.raster(img1)
+img2 >- readPNG(("~/Friendly-Intro-to-R/Hex-BDP (1).png") 
+  grid.raster(img2)
 ```
 
 ## Let's go!
