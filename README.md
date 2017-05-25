@@ -27,11 +27,11 @@ This is an aproximately 45 minute code-along workshop.
   - What do *you* want to learn next?
 
 ### Let's get started!
-Start with the [Friendly-Intro.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/FriendlyIntro.Rmd) file, that's our presentation with some R basics and resources.
+Start with the [Friendly-Intro.html](http://htmlpreview.github.com/?https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/FriendlyIntro.html) file, that's our presentation with some R basics and resources.
 
 Then download [example_lengths_for_R.csv](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/example_lengths_for_R.csv) to your machine. 
 
-From there, you'll move on to the exercises in [BasticStatsCode.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/BasicStatsCode.Rmd).
+From there, you'll move on to the exercises in [BasticStatsCode.pdf](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/BasicStatsCode.pdf).
 
 [Power_Analysis.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/Power_Analysis.Rmd) and [ANOVA.Rmd](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/ANOVA.Rmd) are extra files we may or may not get to.
 
