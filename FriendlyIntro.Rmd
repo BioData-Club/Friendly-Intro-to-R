@@ -49,6 +49,8 @@ img <- readPNG("~/Friendly-Intro-to-R/Github.png")
 x<-1
 x
 ```
+- = assigns a value ( x = 5)
+- == assigns equality (a == b) 
 - functions ()
 ```{r}
 print(x)
@@ -60,10 +62,7 @@ print(x)
     + eg Data1 not 1Data
 - throwing errors is normal! You will create errors _a lot_
 - when you need to install package: 
-```{r}
-install.packages(ggplot)
-```
-
+    + install.packages("png")
 
 ### R is _stupid_ and only knows what _you_ input
 
