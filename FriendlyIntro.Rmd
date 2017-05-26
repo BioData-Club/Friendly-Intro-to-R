@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r fig.width=5, fig.height=3,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Documents/Friendly-Intro-to-R/Github.png")
+img <- readPNG("~/Friendly-Intro-to-R/Github.png")
  grid.raster(img)
 ```
 - Click on "Clone or Download"
@@ -71,7 +71,7 @@ print(x)
 ```{r fig.width=8, fig.height=5,echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("~/Documents/Friendly-Intro-to-R/rstudio.png")
+img <- readPNG("~/Friendly-Intro-to-R/rstudio.png")
  grid.raster(img)
 ```
 
@@ -85,13 +85,21 @@ img <- readPNG("~/Documents/Friendly-Intro-to-R/rstudio.png")
 - R meetup groups (https://www.meetup.com/portland-r-user-group/)
 - additional plotting abilities with ggplot package (we're not going into this)
 
+## Fun Events: cascadiarconf.com
+```{r fig.width=8, fig.height=5,echo=FALSE}
+library(png)
+library(grid)
+img1 <- readPNG("~/Friendly-Intro-to-R/RConf.png")
+ grid.raster(img1)
+```
+
 ## Fun Events: Science Hack Day PDX!
 - http://portland.sciencehackday.org/
 - Join us on Slack! pdxscience.slack.com
 ```{r fig.width=8, fig.height=5,echo=FALSE}
 library(png)
 library(grid)
-img1 <- readPNG("~/Documents/Friendly-Intro-to-R/SHD_2017.png")
+img1 <- readPNG("~/Friendly-Intro-to-R/SHD_2017.png")
  grid.raster(img1)
 ```
 
@@ -99,7 +107,7 @@ img1 <- readPNG("~/Documents/Friendly-Intro-to-R/SHD_2017.png")
 ## Fun Events: BioData Club
 - https://biodata-club.github.io/
 ```{r fig.width=8, fig.height=5,echo=FALSE}
-img2 <- readPNG("~/Documents/Friendly-Intro-to-R/Hex-BDP.png") 
+img2 <- readPNG("~/Friendly-Intro-to-R/Hex-BDP.png") 
   grid.raster(img2)
 ```
 - Join us on Slack! biodata-club.slack.com
