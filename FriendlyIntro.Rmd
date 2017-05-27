@@ -83,6 +83,9 @@ img <- readPNG("~/Friendly-Intro-to-R/rstudio.png")
 - Mozilla study groups: https://github.com/mozillascience/studyGroupLessons/issues
 - R Open Sci (https://ropensci.org)
 - R meetup groups (https://www.meetup.com/portland-r-user-group/)
+- cookbook-r.com 
+- tidyverse
+- Hadley Wickham (https://en.wikipedia.org/wiki/Hadley_Wickham)
 - additional plotting abilities with ggplot package (we're not going into this)
 
 ## Fun Events: cascadiarconf.com
